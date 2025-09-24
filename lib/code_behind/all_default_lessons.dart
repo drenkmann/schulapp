@@ -241,7 +241,7 @@ final List<SchoolLessonPrefab> _allDefaultLessons = [
     color: const Color(0xFF808080),
   ),
   SchoolLessonPrefab(
-    name: "Relogion",
+    name: "Religion",
     localizationKey: "subject_Relogion",
     color: const Color(0xFFD3D3D3),
   ),
